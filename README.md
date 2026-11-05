@@ -50,3 +50,6 @@ will accept the generic, `webp, png, jpeg, jpg`. You can add onto this list and 
 Further containerizations can also be modified, like executables with the details of executables will be
 autoamtically be put into exes/installations. Automatically, it checks for the words, "Setup", "Installer", 
 "Install"
+
+- Should support moving files from one watched directory to another. For example, files (i.e. mp3s) being watched in 
+`Documents` and `Downloads` both go to `Documents/songs`
